@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO E TRADUZIDO POR: DARK YT
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 <p align="center">
 <img src="https://media4.giphy.com/media/12bF3AWU423YeA/giphy.gif?cid=ecf05e47c3ebl8kfmflfcw3xqo8bvf76sw5nvvnr7m59jn9i&rid=giphy.gif" width="230" height="230"/>
 </p>
